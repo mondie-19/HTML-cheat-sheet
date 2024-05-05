@@ -1,0 +1,14 @@
+body{
+   background-color: aquamarine; 
+}
+
+#main-header{
+   text-align: center;
+   background-color: black;
+   color: antiquewhite;
+   padding: 10px;
+}
+#main-footer{
+   text-align: center;
+   font-size: 18px;
+}
